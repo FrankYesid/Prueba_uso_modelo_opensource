@@ -1,4 +1,4 @@
-# Guía Completa: Uso de OpenCode y IA en Desarrollo de Software
+h# Guía Completa: Uso de OpenCode y IA en Desarrollo de Software
 
 ## 📚 Introducción
 
@@ -146,4 +146,6 @@ Para preguntas o sugerencias, abre un issue en el repositorio.
 ---
 
 **Última actualización**: 2024
+
+actualizar...
 
